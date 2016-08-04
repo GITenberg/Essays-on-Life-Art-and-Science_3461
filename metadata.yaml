@@ -1,0 +1,44 @@
+_repo: Essays-on-Life-Art-and-Science_3461
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Streatfeild, R. A. (Richard Alexander)
+    alias: Streatfeild, Richard Alexander
+    birthdate: 1866
+    deathdate: 1919
+    gutenberg_agent_id: '6569'
+    url: http://www.gutenberg.org/2009/agents/6569
+creator:
+  author:
+    agent_name: Butler, Samuel
+    alias: Cellarius
+    birthdate: 1835
+    deathdate: 1902
+    gutenberg_agent_id: '748'
+    url: http://www.gutenberg.org/2009/agents/748
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Butler_(1835-1902)
+description: Title; Contents; Introduction; Quis Desiderio ...?; Ramblings in Cheapside;
+  The Aunt, the Nieces, and the Dog; How to Make the Best of Life; The Sanctuary of
+  Montrigone; A Medieval Girl School; Art in the Valley of Saas; Thought and Language;
+  The Deadlock in Darwinism --Part I; The Deadlock in Darwinism--Part II; The Deadlock
+  in Darwinism--Part III; Endnotes.
+gutenberg_issued: '2002-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3461'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Evolution'
+- !lcc 'PR'
+- !lcsh 'Art criticism'
+- !lcsh 'Science'
+- GITenberg
+tableOfContents: Introduction -- Quis desiderio...? -- Ramblings in Cheapside -- The
+  aunt, the nieces and the dog -- How to make the best of life -- The sanctuary of
+  Montrigone -- A medieval girl school -- Art in the valley of Saas -- Thought and
+  language -- The deadlock in Darwinism.
+title: Essays on Life, Art and Science
+url: http://www.gutenberg.org/ebooks/3461
